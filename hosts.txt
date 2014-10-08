@@ -12,3 +12,4 @@
 0.0.0.0 img.hotwords.com.br
 0.0.0.0 ad.broadstreetads.com
 0.0.0.0 cdn.broadstreetads.com
+0.0.0.0 ad.atdmt.com
