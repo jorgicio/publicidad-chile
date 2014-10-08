@@ -10,3 +10,4 @@
 0.0.0.0 oas.rmlacdn.net
 0.0.0.0 zone72.hotwords.com.br
 0.0.0.0 img.hotwords.com.br
+0.0.0.0 ad.broadstreetads.com
