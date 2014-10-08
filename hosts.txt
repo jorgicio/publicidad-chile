@@ -1,0 +1,8 @@
+# Publicidad Chile blocklist
+# Creada por Jorgicio.
+# ¿Contribuciones? https://github.com/jorgicio/publicidad-chile/issues
+
+0.0.0.0 ads.elciudadano.cl
+0.0.0.0 pn1.adxion.com
+0.0.0.0 pn2.adxion.com
+0.0.0.0 delivery.adxion.com
