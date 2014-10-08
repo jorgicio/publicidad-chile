@@ -6,3 +6,5 @@
 0.0.0.0 pn1.adxion.com
 0.0.0.0 pn2.adxion.com
 0.0.0.0 delivery.adxion.com
+0.0.0.0 de.cooperativa.cl
+0.0.0.0 oas.rmlacdn.net
