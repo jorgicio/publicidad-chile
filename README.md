@@ -1,4 +1,5 @@
-== Publicidad Chile ==
+Publicidad Chile
+================
 
 El objetivo de esto, es acabar con la publicidad de algunos sitios de Chile.
 Si tienen publicidad de otros países o páginas, bienvenida será acá también.
