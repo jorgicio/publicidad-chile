@@ -15,4 +15,4 @@
 0.0.0.0 ad.atdmt.com
 0.0.0.0 de.emol.com
 0.0.0.0 de.tvn.cl
-0.0.0.0 redpineapplemedia.com
+0.0.0.0 www.redpineapplemedia.com
