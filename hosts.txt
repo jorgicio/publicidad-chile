@@ -16,3 +16,5 @@
 0.0.0.0 de.emol.com
 0.0.0.0 de.tvn.cl
 0.0.0.0 video.redpm.net
+0.0.0.0 ci4.googleusercontent.com
+0.0.0.0 contagia.us3.list-manage.com
