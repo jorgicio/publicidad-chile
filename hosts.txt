@@ -19,3 +19,4 @@
 0.0.0.0 ci4.googleusercontent.com
 0.0.0.0 contagia.us3.list-manage.com
 0.0.0.0 ads.eldefinido.cl
+0.0.0.0 delivery.emol.com
