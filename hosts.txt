@@ -22,3 +22,4 @@
 0.0.0.0 delivery.emol.com
 0.0.0.0 zone6.hotwords.com.br
 0.0.0.0 redpineapplemedia.com
+0.0.0.0 banner.hotwords.com
