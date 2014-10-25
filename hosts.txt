@@ -121,3 +121,4 @@
 0.0.0.0 zone98.hotwords.com.br
 0.0.0.0 zone99.hotwords.com.br
 0.0.0.0 adk2cdn.cpmrocket.com
+0.0.0.0 ad.impresionesweb.com
