@@ -320,3 +320,5 @@
 0.0.0.0 cdn98.emediate.eu
 0.0.0.0 eas99.emediate.eu
 0.0.0.0 cdn99.emediate.eu
+0.0.0.0 lh5.googleusercontent.com
+0.0.0.0 databass.info
