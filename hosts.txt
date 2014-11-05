@@ -323,3 +323,4 @@
 0.0.0.0 lh5.googleusercontent.com
 0.0.0.0 databass.info
 0.0.0.0 ads.thebrandingbrothers.net
+0.0.0.0 revive.lr21.com
