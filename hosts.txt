@@ -1324,3 +1324,4 @@
 0.0.0.0 ad998m.adk2.co
 0.0.0.0 ad999m.adk2.co
 0.0.0.0 ecpm.adk2x.com
+0.0.0.0 xch.smrtgs.com
