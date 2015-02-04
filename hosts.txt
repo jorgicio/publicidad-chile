@@ -1325,4 +1325,4 @@
 0.0.0.0 ad999m.adk2.co
 0.0.0.0 ecpm.adk2x.com
 0.0.0.0 xch.smrtgs.com
-0.0.0.0 adrockaxis.cl
+0.0.0.0 www.adrockaxis.cl
