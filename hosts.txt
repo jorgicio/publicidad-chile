@@ -1326,3 +1326,5 @@
 0.0.0.0 ecpm.adk2x.com
 0.0.0.0 xch.smrtgs.com
 0.0.0.0 www.adrockaxis.cl
+0.0.0.0 afiliados.net.linio.com
+0.0.0.0 www.eldesconcierto-ads.com
