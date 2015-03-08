@@ -1329,3 +1329,4 @@
 0.0.0.0 afiliados.net.linio.com
 0.0.0.0 www.eldesconcierto-ads.com
 0.0.0.0 ads.lax.biobiochile.cl
+0.0.0.0 ad.doubleclick.net
