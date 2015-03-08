@@ -1330,3 +1330,4 @@
 0.0.0.0 www.eldesconcierto-ads.com
 0.0.0.0 ads.lax.biobiochile.cl
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 creative.ad120m.com
