@@ -1332,3 +1332,4 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 creative.ad120m.com
 0.0.0.0 ads.13.cl
+0.0.0.0 advertising.grupodial.cl
