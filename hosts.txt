@@ -1337,4 +1337,4 @@
 0.0.0.0 publicidad.adrockaxis.cl
 0.0.0.0 de.publimetro.com
 0.0.0.0 estaticos.tvn.cl
-0.0.0. de.24horas.cl
+0.0.0.0 de.24horas.cl
